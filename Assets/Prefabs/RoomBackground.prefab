@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2881765687181756049}
   - component: {fileID: 2881765687181756048}
   - component: {fileID: 2881765687181756055}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -115,7 +115,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6964526916345147336}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RoomBackground
   m_TagString: Untagged
   m_Icon: {fileID: 0}

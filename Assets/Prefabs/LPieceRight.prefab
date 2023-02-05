@@ -311,6 +311,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gridSize: 1
+  canRotate: 1
 --- !u!54 &6240520403109989777
 Rigidbody:
   m_ObjectHideFlags: 0

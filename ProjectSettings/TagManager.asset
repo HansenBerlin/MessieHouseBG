@@ -6,16 +6,17 @@ TagManager:
   tags:
   - piecetext
   - Settings
+  - Piece
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
   - 
-  - 
+  - UIObject3D
   - 
   - 
   - 
